@@ -2,6 +2,7 @@
 
 <p>
   <a href="mailto:lij850601@gmail.com"><img src="https://img.shields.io/badge/Email-lij850601%40gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/junjie-li-910375212/"><img src="https://img.shields.io/badge/LinkedIn-Junjie%20Li-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Picrew/Picrew"><img src="https://img.shields.io/badge/GitHub-Picrew-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
