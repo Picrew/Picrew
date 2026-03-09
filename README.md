@@ -24,6 +24,6 @@ My main interests are **long-context generation and reasoning**, **LLM evaluatio
 
 Before Microsoft, I interned at **Shanghai AI Lab** and **NetEase**. Those experiences shaped how I build: keep the core idea sharp, keep the system practical, and keep the iteration loop fast.
 
-This profile lives at **[github.com/Picrew/Picrew](https://github.com/Picrew/Picrew)**, where I share notes, prototypes, and experiments.
+I share notes, prototypes, and experiments on my website: **[picrew.github.io](https://picrew.github.io/)**.
 
 If you are working on robust LLM pipelines, evaluation frameworks, or agent-style products, feel free to reach me at **[lij850601@gmail.com](mailto:lij850601@gmail.com)**.
