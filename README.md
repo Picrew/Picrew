@@ -19,12 +19,16 @@
   <img src="https://img.shields.io/badge/EDA-8E44AD?style=for-the-badge" />
 </p>
 
-I am **Junjie Li**, an M.S. student at the **Chinese Academy of Sciences (2024-2027)**, currently interning at **Microsoft**.
+I am **Junjie Li**, an M.S. student at the **Chinese Academy of Sciences (2024-2027)**.
+
+I recently completed an LLM research internship at **Microsoft (Apr 2025 - Apr 2026)**. Before Microsoft, I interned at **Shanghai AI Lab (Dec 2024 - Apr 2025)** and **NetEase (Aug 2024 - Dec 2024)**.
+
+Those experiences shaped how I build: keep the core idea sharp, keep the system practical, and keep the iteration loop fast.
 
 My main interests are **long-context generation and reasoning**, **LLM evaluation**, and **agent systems**. I enjoy turning research ideas into tools that are simple to run, easy to debug, and reliable in real workflows.
 
-Before Microsoft, I interned at **Shanghai AI Lab** and **NetEase**. Those experiences shaped how I build: keep the core idea sharp, keep the system practical, and keep the iteration loop fast.
-
 I share notes, prototypes, and experiments on my website: **[picrew.github.io](https://picrew.github.io/)**.
 
-If you are working on robust LLM pipelines, evaluation frameworks, or agent-style products, feel free to reach me at **[lij850601@gmail.com](mailto:lij850601@gmail.com)**.
+I'm currently exploring internship opportunities, and I'd be glad to connect if your team is hiring.
+
+If your team is working on robust LLM pipelines, evaluation frameworks, or agent-style products, feel free to reach me at **[lij850601@gmail.com](mailto:lij850601@gmail.com)**.
