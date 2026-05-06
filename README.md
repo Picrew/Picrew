@@ -21,7 +21,9 @@
 
 I am **Junjie Li**, an M.S. student at the **Chinese Academy of Sciences (2024-2027)**.
 
-I recently completed an LLM research internship at **Microsoft (Apr 2025 - Apr 2026)**. Before Microsoft, I interned at **Shanghai AI Lab (Dec 2024 - Apr 2025)** and **NetEase (Aug 2024 - Dec 2024)**.
+I am currently an LLM Algorithm Intern at **Apple (May 2026 - Present)**.
+
+I recently completed an LLM research internship at **Microsoft (Apr 2025 - Apr 2026)**, and earlier internships at **Shanghai AI Lab (Dec 2024 - Apr 2025)** and **NetEase (Aug 2024 - Dec 2024)**.
 
 Those experiences shaped how I build: keep the core idea sharp, keep the system practical, and keep the iteration loop fast.
 
@@ -29,6 +31,4 @@ My main interests are **long-context generation and reasoning**, **LLM evaluatio
 
 I share notes, prototypes, and experiments on my website: **[picrew.github.io](https://picrew.github.io/)**.
 
-I'm currently exploring internship opportunities, and I'd be glad to connect if your team is hiring.
-
-If your team is working on robust LLM pipelines, evaluation frameworks, or agent-style products, feel free to reach me at **[lij850601@gmail.com](mailto:lij850601@gmail.com)**.
+If you'd like to discuss long-context LLMs, evaluation, agent systems, or other research and engineering ideas, feel free to reach me at **[lij850601@gmail.com](mailto:lij850601@gmail.com)**.
